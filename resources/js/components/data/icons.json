@@ -1,0 +1,22 @@
+[
+    {
+        "name": "administración",
+        "value": "mdi-view-dashboard-outline"
+    },
+    {
+        "name": "reportes",
+        "value": "mdi-clipboard-outline"
+    },
+    {
+        "name": "personal",
+        "value": "mdi-shield-account"
+    },
+    {
+        "name": "cambiar-contraseña",
+        "value": "mdi-form-textbox-password"
+    },
+    {
+        "name": "cambiar-pin",
+        "value": "mdi-lastpass"
+    }
+]
